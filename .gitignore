@@ -1,0 +1,8 @@
+*.pyc
+_pycache_/
+media
+.Python
+.env/
+venv/
+key.txt
+config
